@@ -11,6 +11,6 @@ Start Apache and Mysql servers.
 ### Step 4 :
 Browse for http://localhost/Counsiller/index.php and then you can find the Website.
 
-<iframe width="560" height="315" src="https://youtu.be/rhDzV8OBnEw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://www.youtube.com/watch?v=rhDzV8OBnEw&ab_channel=DeshithaHansajith)
 
 ## Happy Codding!!!
